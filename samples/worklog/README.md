@@ -1,0 +1,1 @@
+`sample01.js` - Add log type to the work log list drawer
