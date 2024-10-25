@@ -31,7 +31,7 @@ This repository is a source to share and learn how to customize different areas 
 
 # Migrating Applications to other environments.
 
-Check this blog post by IBM Champion Nivin George.
+Check this [blog post](https://www.linkedin.com/pulse/migrating-maximo-mobile-changes-migration-manager-use-nivin-george-g7ypc) by IBM Champion Nivin George.
 
 ## Contribution
 
