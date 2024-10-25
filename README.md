@@ -29,6 +29,10 @@ This repository is a source to share and learn how to customize different areas 
 | Computed Attr. | sample01.js | Add computed attribute to a datasource                          |
 |                |             |                                                                 |
 
+# Migrating Applications to other environments.
+
+Check this blog post by IBM Champion Nivin George.
+
 ## Contribution
 
 Contributions are what make the open source community an incredible place to learn, inspire, and create. Any contribution you make will be **greatly appreciated**.
